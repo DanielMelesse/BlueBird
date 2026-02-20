@@ -1,0 +1,21 @@
+{
+  "title": "BlueBird Ethiopia Travel Marketplace",
+  "subtitle": "Book hotels, tours, cars, and intercity bus tickets in ETB.",
+  "actions": {
+    "search": "Search all services",
+    "vendorDashboard": "Vendor dashboard",
+    "adminDashboard": "Admin dashboard"
+  },
+  "search": {
+    "title": "Unified search",
+    "description": "Search hotels, tours, rentals, and bus routes with location, date, and price filters."
+  },
+  "vendor": {
+    "title": "Vendor dashboard",
+    "description": "Manage inventory, pricing calendars, bookings, and payouts."
+  },
+  "admin": {
+    "title": "Admin dashboard",
+    "description": "Manage approvals, disputes, users, vendors, revenue, and commission rules."
+  }
+}
